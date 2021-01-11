@@ -1,2 +1,2 @@
-# **Lab4 - Fast Fourier Transformation (Preparing...)**
+# **Lab4 - Fast Fourier Transformation(FFT) (Preparing...)**
 ## **Description**
