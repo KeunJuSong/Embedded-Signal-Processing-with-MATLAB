@@ -14,7 +14,7 @@
 ### **Convolution Operation**
 * **Sliding Method**</br>
   * Sliding Method can explain very well about convolution operation based on **Convolution Formula-3**
-  * I used Sliding Method algorithm to implement Convolution in MATLAB</br></br>
+  * I used Sliding Method algorithm to implement Convolution in MATLAB. (See **[Sliding Method Algorithm code](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/convolution.m)**)</br></br>
 * Example
   ```
   h[n] = [0, 3, 2, 1, 0], n = -1, 0, 1, 2, 3
