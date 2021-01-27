@@ -1,5 +1,12 @@
 # **Lab3 - Discrete Fourier Transformation(DFT)**
-## **Fourier Frequency Analysis**
+## **Code**
+* DFT Function (Algorithm)
+  * [my_DFT.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab3_DFT/my_DFT.m)
+* Practical exercises using DFT Function
+  * [exercise#1](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab3_DFT/DFT.m)
+  * [exercise#2](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab3_DFT/DFT_1.m)
+## **Description**
+### **Fourier Frequency Analysis**
 * Analyzing various frequency features about signal that represented in time domain
 * Signal Classification in time domain based on Continuity & Periodicity
 
@@ -18,7 +25,7 @@
   * ```x[n]``` : Discrete-Time Fourier Transform (DTFT)</br></br>
   <img src="https://user-images.githubusercontent.com/48046183/105997106-8f719280-60ee-11eb-8d76-e9c2d5e2e531.png" width="40%"></br>
  
-## **DTFT Problem & DFT**
+### **DTFT Problem & DFT**
 * **IDEA : Why We Sampling the continuous signal to make the discrete signal?** 
 * In pratical, it's hard to handle the continuous information. So we consider digital system which is suitable for discrete information.
 * **DTFT Problem**
