@@ -2,7 +2,7 @@
 ## **Code**
 * Convolution Function (Algorithm)
   * [convolution.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/convolution.m)
-* Practical exercise
+* Practical exercise using Convolution Function
   * [exercise#1](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/conv.m)
   * [exercise#2](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/convolution_lab323.m)
 ## **Description**
