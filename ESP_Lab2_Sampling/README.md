@@ -1,4 +1,11 @@
 # **Lab2 - Sampling & Reconstruction**
+## **Code**
+* Length N - Impulse Train Function (Algorithm)
+  * [impulse_train2.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab2_Sampling/impulse_train2.m)
+* Spectrum Function
+  * [myfun_SA.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab2_Sampling/myfun_SA.m)
+* Practical exercise using Impulse Train & Specturm Function
+  * [exercise#1](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab2_Sampling/sampling.m)
 ## **What is Sampling?**</br>
 * Sampling is one step of process that converting continuous time signal to discrete time signal.</br>
 * Sampling process is look like a switch circuit that switching off in every ```n*Ts, (n = 0, 1, 2, ...)``` </br></br>
@@ -10,7 +17,7 @@ Finally, we can say that ```x[n]``` is **Discrete-Time Signal** that output to a
  
 ## **Modeling process of Sampling**
 * Sampling continuous-time signal ```x(t)``` is same as multiplication of ```x(t)``` and impulse train, ```p(t)```</br></br>
-**Implementing Impulse Train in MATLAB is the main part of this Lab.** (See **[Impulse Train Code](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab2_Sampling/impluse_train.m)**)</br></br>
+**Implementing Impulse Train in MATLAB is the main part of this Lab.** (See **[Impulse Train Code](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab2_Sampling/impluse_train2.m)**)</br></br>
 <img src="https://user-images.githubusercontent.com/48046183/104459919-c45eef00-55f0-11eb-8fdb-7a88c4049023.png" width="25%"></br></br>
 * ```p(t)``` is continuous-period function, so it can be expressed as follow using continuous time Fourier series(CTFS):</br></br>
 <img src="https://user-images.githubusercontent.com/48046183/104460401-68489a80-55f1-11eb-8ee2-cfa8f87bac8a.png" width="40%"></br>
