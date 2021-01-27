@@ -1,4 +1,10 @@
 # **Lab1 - Convolution**
+## **Code**
+* Convolution Function (Algorithm)
+  * [convolution.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/convolution.m)
+* Practical exercise
+  * [exercise#1](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/conv.m)
+  * [exercise#2](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab1_convolution/convolution_lab323.m)
 ## **Description**
 ### **What is Convolution?**
 * Convolution is operation that represents a synthetic signal for any two signals (at the time axis).
