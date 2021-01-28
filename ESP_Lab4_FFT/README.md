@@ -46,7 +46,7 @@
 
 * **Properties of Twiddle Factor**
   * **Origin symmetry**</br></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106153725-33783e00-61c2-11eb-93c9-ae6fc6b02c37.png" width="10%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106153725-33783e00-61c2-11eb-93c9-ae6fc6b02c37.png" width="15%"></br>
     * Example : Origin symmetry of Twiddle Factor, N=2,4,8</br></br>
     <img src="https://user-images.githubusercontent.com/48046183/106154111-9bc71f80-61c2-11eb-8246-34135a33a6ca.png" width="35%"></br>
   * **Amount of computation in N-point FFT**</br></br> 
