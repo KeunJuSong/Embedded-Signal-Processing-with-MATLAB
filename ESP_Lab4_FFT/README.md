@@ -40,7 +40,7 @@
 
 * **Time sharing of FFT Diagram**
 * Computation Step in N-point FFT</br></br>
-<img src="https://user-images.githubusercontent.com/48046183/106152862-41798f00-61c1-11eb-97a6-208911059c5d.png" width="10%"></br>
+<img src="https://user-images.githubusercontent.com/48046183/106152862-41798f00-61c1-11eb-97a6-208911059c5d.png" width="8%"></br>
 * 8-point FFT Diagram</br></br>
 <img src="https://user-images.githubusercontent.com/48046183/106153051-7a196880-61c1-11eb-8cfd-436840c830ff.png" width="60%"></br>
 
