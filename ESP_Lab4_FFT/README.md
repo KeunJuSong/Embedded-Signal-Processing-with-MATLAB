@@ -1,4 +1,4 @@
-# **Lab4 - Fast Fourier Transformation(FFT) (Preparing...)**
+# **Lab4 - Fast Fourier Transformation(FFT)**
 ## **Code**
 * Time sharing of FFT Function (Algorithm)
   * [my_FFT1.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab4_FFT/my_FFT1.m)
