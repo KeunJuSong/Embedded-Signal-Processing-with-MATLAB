@@ -35,11 +35,11 @@
 ### **Image Compression using DCT**
 * Example) Lenna image (Use Lenna [File](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab5_2%EC%B0%A8%EC%9B%90DCT/lena.raw) in MATLAB)
   * 256x256, 8 bits resolution</br></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106465755-c1636a00-64dd-11eb-816e-a684b9d7f33d.png" width="40%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106465755-c1636a00-64dd-11eb-816e-a684b9d7f33d.png" width="35%"></br>
 * 2-D DCT magnitude of Lenna image
   * 0~255 range of the value, 0 → Black 255 → White
   * Top-Left → Low frequency, Top-Right → High frequency</br></br> 
-  <img src="https://user-images.githubusercontent.com/48046183/106468889-db9f4700-64e1-11eb-9031-9f3423503c49.png" width="40%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106468889-db9f4700-64e1-11eb-9031-9f3423503c49.png" width="35%"></br>
 * From magnitude of Lenna image, we know that high frequency area is 0.
 * **Compression Idea** : Don't need to save 0 → Setting threshold value to make 0
 * **Image loss**
