@@ -1,7 +1,7 @@
 # **Lab6 - Transfer Function (Preparing...)**
 ## **Code**
-*
-*
+* Practical exercise
+  * [TF.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab6_TF(Transfer%20Function)/TF.m)
 ## **Description**
 ### **Continuous LTI System**
 * Continuous System, ```S{}```</br></br>
@@ -62,8 +62,8 @@
 * Example of Pole-Zero Plot
   * Assume 3th-order system</br></br>
   <img src="https://user-images.githubusercontent.com/48046183/106771209-1213c800-6682-11eb-8c9f-c322f81aa785.png" width="45%"></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106771283-25269800-6682-11eb-8fc6-a9674b78c8cd.png" width="30%"></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106771472-53a47300-6682-11eb-93a4-d9342b22cdab.png" width="40%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106771283-25269800-6682-11eb-8fc6-a9674b78c8cd.png" width="25%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106771472-53a47300-6682-11eb-93a4-d9342b22cdab.png" width="35%"></br>
 #### **Discrete System**
 * Simillar with Continuous System case!
 * Change ```Y(z) = H(z)X(z)```</br></br>
@@ -86,7 +86,7 @@
   * This idea is called **BIBO(Bounded-Input Bounded-Output)** Stability
 * Stability in LTI System, Impulse Response properties
   * Impulse Response is must be converged to 0</br></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106845881-32c63700-66ef-11eb-8dd8-2378d66ed53f.png" width="10%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106845881-32c63700-66ef-11eb-8dd8-2378d66ed53f.png" width="15%"></br>
 * **Charts of System Stability in Pole-Zero Polt**
   * **Continuous System**</br>
   
@@ -107,14 +107,23 @@
 
 ### **Pole-Zero Plot - Frequency Response**
 #### **Continuous System**
+* Magnitude Spectrum using frequency response from transfer function of continuous system</br></br>
+<img src="https://user-images.githubusercontent.com/48046183/106916364-6d10f200-674a-11eb-972f-bcbb4e226a64.png" width="35%"></br>
+* **Denominator means that distance multiplication between some point in y-axis of s-plane and each pole**
+* **Numerator means that distance multiplication between some point in y-axis of s-plane and each zero**</br></br>
+<img src="https://user-images.githubusercontent.com/48046183/106917406-941bf380-674b-11eb-9e0e-a6125597231c.png" width="35%"></br>
+* **The magnitude of freqency response**</br></br>
+<img src="https://user-images.githubusercontent.com/48046183/106917777-f07f1300-674b-11eb-876c-a498c28b84da.png" width="40%"></br>
 
-
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
-<img src="" width="40%"></br>
+#### **Discrete System**
+* Simillar with Continuous System
+* Magnitude Spectrum using frequency response from transfer function of discrete system</br></br>
+<img src="https://user-images.githubusercontent.com/48046183/106918342-756a2c80-674c-11eb-956d-2cbb896b104f.png" width="35%"></br>
+* **Denominator means that distance multiplication between some point in circumference of the unit cricle and each pole**
+* **Numerator means that distance multiplication between some point in circumference of the unit cricle and each zero**
+  * Most small distance value
+    * Pole : when some point in circumference equals the angle of each pole
+    * Zero : when some point in circumference equals the angle of each zero</br></br>
+    <img src="https://user-images.githubusercontent.com/48046183/106918736-d0038880-674c-11eb-94bb-ca002553a7c0.png" width="35%"></br>
+* **The magnitude of freqency response**</br></br>
+<img src="https://user-images.githubusercontent.com/48046183/106920138-21604780-674e-11eb-9929-5a229a574cbd.png" width="40%"></br>
