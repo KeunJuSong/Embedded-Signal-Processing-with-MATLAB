@@ -85,8 +85,28 @@
   * Idea: When restricted magnitude of input is in the system, then output of the system is must be restriced magnitude
   * This idea is called **BIBO(Bounded-Input Bounded-Output)** Stability
 * Stability in LTI System, Impulse Response properties
+  * Impulse Response is must be converged to 0</br></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106845881-32c63700-66ef-11eb-8dd8-2378d66ed53f.png" width="10%"></br>
+* **Charts of System Stability in Pole-Zero Polt**
+  * **Continuous System**</br>
+  
+  |**Condition**|**Stability**|
+  |:---:|:---:|
+  |All poles are positioned in the left plane|Stable|
+  |More than 1 pole is positioned in y-axis, with the rest is still positioned in the left plane|Marginally Stable|
+  |More than 1 pole is positioned in the right plane|Unstable|
+  
+  * **Discrete System**</br>
+  
+  |**Condition**|**Stability**|
+  |:---:|:---:|
+  |All poles are positioned in the unit cricle|Stable|
+  |More than 1 pole is positioned in a circumference of the unit cricle, with the rest is still positioned in the unit cricle|Marginally Stable|
+  |More than 1 pole is positioned out of the unit cricle|Unstable|
+* Condition of these chart is related with **Laplace Inverse & Z-Inverse**!  
 
-
+### **Pole-Zero Plot - Frequency Response**
+#### **Continuous System**
 
 
 <img src="" width="40%"></br>
