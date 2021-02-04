@@ -74,12 +74,17 @@
 * ```z_1, z_2, ... , z_M``` - **Zero**
 * Example of Pole-Zero Plot
   * Assume some discrete system</br></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106772233-24dacc80-6683-11eb-9d50-2b5e3cb5be8d.png" width="25%"></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106772350-4340c800-6683-11eb-86f9-3de3c6bfccfb.png" width="25%"></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106772427-5784c500-6683-11eb-80f9-19b2fecad390.png" width="25%"></br>
-  <img src="https://user-images.githubusercontent.com/48046183/106772525-71bea300-6683-11eb-8456-f150a7f4128c.png" width="35%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106772233-24dacc80-6683-11eb-9d50-2b5e3cb5be8d.png" width="20%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106772350-4340c800-6683-11eb-86f9-3de3c6bfccfb.png" width="20%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106772427-5784c500-6683-11eb-80f9-19b2fecad390.png" width="20%"></br>
+  <img src="https://user-images.githubusercontent.com/48046183/106772525-71bea300-6683-11eb-8456-f150a7f4128c.png" width="30%"></br>
 
 ### **Pole-Zero Plot - Stability**
+* Pole-Zero Plot intuitively shows stability of the system
+* What does it mean that system is stable?
+  * Idea: When restricted magnitude of input is in the system, then output of the system is must be restriced magnitude
+  * This idea is called **BIBO(Bounded-Input Bounded-Output)** Stability
+* Stability in LTI System, Impulse Response properties
 
 
 
