@@ -1,4 +1,4 @@
-# **Lab6 - Transfer Function (Preparing...)**
+# **Lab6 - Transfer Function**
 ## **Code**
 * Practical exercise
   * [TF.m](https://github.com/KeunJuSong/Embedded-Signal-Processing-with-MATLAB/blob/master/ESP_Lab6_TF(Transfer%20Function)/TF.m)
